@@ -29,6 +29,12 @@ export function Footer() {
               <Link href="#contact" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                 Contact
               </Link>
+              <Link href="/terms" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                Terms of Service
+              </Link>
+              <Link href="/privacy" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                Privacy Policy
+              </Link>
             </nav>
           </div>
           <div>
